@@ -1,4 +1,3 @@
-! Custom AdGuard Rules List
 ||huffpost.com^
 ||disqus.com^$script,third-party
 ew.com##section.disqus-comments
