@@ -1,4 +1,7 @@
+! Title: LtFuzzyBlock+
+! Version: 1.04
 ||huffpost.com^
 ||disqus.com^$script,third-party
 ew.com##section.disqus-comments
 deadline.com##section.toaster
+gizmodo.com##div.eCMXYG
